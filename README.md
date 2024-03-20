@@ -21,7 +21,7 @@
 </p>
 
   <p align="center"><strong>(* Equal Contribution)</strong></p>
-  <h2 align="center">3DV 2024 (Oral)</h2>
+  <h2 align="center">3DV 2024 (Best Paper Honorable Mention)</h2>
   <h3 align="center"><a href="https://arxiv.org/abs/2302.03594">Paper</a> | <a href="https://youtu.be/H4cOCa3oUno">Video</a> | <a href="https://nicer-slam.github.io">Project Page</a></h3>
   <div align="center"></div>
 </p>
